@@ -1,8 +1,8 @@
 * {
   padding: 0px;
   margin: 0px;
-  box-sizing: 0px;
-  overflow: hidden;
+  /* box-sizing: 0px; */
+  
 }
 .heading {
   color: #000000;
@@ -19,6 +19,7 @@
   grid-auto-rows: 250px;
   grid-auto-flow: dense;
   gap: 10px;
+  overflow: hidden;
 }
 
 .v-strech {
